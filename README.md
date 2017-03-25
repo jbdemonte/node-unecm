@@ -1,5 +1,9 @@
 # ECM decode utility for Node.js
 
+[![travis build](https://img.shields.io/travis/jbdemonte/node-unecm.svg)](https://travis-ci.org/jbdemonte/node-unecm)
+[![Coverage Status](https://coveralls.io/repos/github/jbdemonte/node-unecm/badge.svg?branch=master)](https://coveralls.io/github/jbdemonte/node-unecm?branch=master)
+[![NPM Version](https://img.shields.io/npm/v/node-unecm.svg)](https://www.npmjs.com/package/node-unecm)
+
 This project is a port of the ECM decode utility from [ECM](https://github.com/kidoz/ecm).
 
 ## Installation
